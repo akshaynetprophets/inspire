@@ -1,0 +1,17 @@
+{
+    "name": "akshaynetprophets/inspire",
+    "autoload": {
+        "psr-4": {
+            "Akshaynetprophets\\Inspire\\": "src/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Akshay Sharma"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
